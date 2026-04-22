@@ -12,7 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LycorisMisaka)
 <img src="https://user-images.githubusercontent.com/22280294/179611382-5704fe4f-ef8c-40f2-b868-5921cfb56da6.png" alt="pusheen" height="160px">
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LycorisMisaka)}
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LycorisMisaka)
 
 ### 🥰 Contact me through the following methods. <!--{ collapseSection() }-->
 
